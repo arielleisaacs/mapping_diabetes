@@ -5,4 +5,4 @@ To run this code, you only need the requirements listed in `requirements.txt` an
 Source for diabetes data: US Diabetes Surveillance System; www.cdc.gov/diabetes/data; Division of Diabetes Translation - Centers for Disease Control and Prevention.
 Source for chloropleth help: https://plotly.com/python/choropleth-maps/
 
-![USA diabetes map](images/diabetes.png)
+![USA diabetes map](images/diabetes.PNG)
